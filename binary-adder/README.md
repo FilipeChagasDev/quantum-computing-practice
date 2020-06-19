@@ -1,4 +1,5 @@
-#Full adder
+# Binary full adder
+
 ![pic](diagram.png)
 
 **Output:**
